@@ -1,0 +1,60 @@
+
+|
+java:S4144‹"`Update this method so that its implementation is not identical to "cerrarPlantilla" on line 247.(òÓº›ıÿÿÿÿ
+Z
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä
+_
+java:S2147B"DCombine this catch with the one at line 64, which has the same body.(ÿ‰À¾üÿÿÿÿ
+Q
+java:S2696M"6Make the enclosing method "static" or remove this set.(÷üúÿÿÿÿ
+L
+java:S2696P"6Make the enclosing method "static" or remove this set.(ˆ°‹À
+\
+java:S2147„"ECombine this catch with the one at line 128, which has the same body.(âÍş‹
+Q
+java:S2696T"6Make the enclosing method "static" or remove this set.(Äš›šûÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(†ÕÜ³øÿÿÿÿ
+L
+java:S2696`"6Make the enclosing method "static" or remove this set.(§ò³ñ
+
+java:S1130"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(Äùr
+W	java:S125‘"<This block of commented-out lines of code should be removed.(ÆÌíüÿÿÿÿ
+`
+java:S3252”"DUse static access with "com.itextpdf.text.Element" for "ALIGN_LEFT".(£ÊÍíüÿÿÿÿ
+Q	java:S125™"<This block of commented-out lines of code should be removed.(«ÒÓo
+[
+java:S3252Ÿ"?Use static access with "com.itextpdf.text.Rectangle" for "BOX".(ÈŞ×ùÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(’‚¨
+]
+java:S3252¦"FUse static access with "com.itextpdf.text.Element" for "ALIGN_CENTER".(İ¶ı
+W	java:S125§"<This block of commented-out lines of code should be removed.(ô‹½üÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(èÄú˜üÿÿÿÿ
+•
+java:S1130À"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(¨˜´×øÿÿÿÿ
+J
+java:S1172À".Remove this unused method parameter "locator".(¨˜´×øÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(ÆÌíüÿÿÿÿ
+`
+java:S3252È"DUse static access with "com.itextpdf.text.Element" for "ALIGN_LEFT".(£ÊÍíüÿÿÿÿ
+Z
+java:S3252Ï"DUse static access with "com.itextpdf.text.Element" for "ALIGN_LEFT".(Ø‰ºC
+[
+java:S3252×"?Use static access with "com.itextpdf.text.Rectangle" for "BOX".(ÈŞ×ùÿÿÿÿ
+]
+java:S3252İ"FUse static access with "com.itextpdf.text.Element" for "ALIGN_CENTER".(İ¶ı
+
+java:S1130÷"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(èµóà
+ƒ
+java:S1130÷"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(èµóà
+`
+java:S3252ü"DUse static access with "com.itextpdf.text.Element" for "ALIGN_LEFT".(£ÊÍíüÿÿÿÿ
+R
+java:S2696‚"6Make the enclosing method "static" or remove this set.(ö’Äİùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(«ÒÓo
+•
+java:S1130‹"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(òÓº›ıÿÿÿÿ
+ˆ
+java:S1130‹"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(òÓº›ıÿÿÿÿ
+`
+java:S3252"DUse static access with "com.itextpdf.text.Element" for "ALIGN_LEFT".(£ÊÍíüÿÿÿÿ
+Q	java:S125•"<This block of commented-out lines of code should be removed.(«ÒÓo

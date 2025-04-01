@@ -1,0 +1,48 @@
+
+†
+java:S1488ò"hImmediately return this expression instead of assigning it to the temporary variable "numero_aleatorio".(ËÌµÅ8¾¥ÏûŞ2
+Š
+java:S1488õ"gImmediately return this expression instead of assigning it to the temporary variable "fechaConFormato".(•µ¦Äûÿÿÿÿ8§ÒĞûŞ2
+Š
+java:S1488€"gImmediately return this expression instead of assigning it to the temporary variable "fechaConFormato".(•µ¦Äûÿÿÿÿ8¨ÒĞûŞ2
+
+java:S1488™"\Immediately return this expression instead of assigning it to the temporary variable "hora".(ªĞáŠùÿÿÿÿ8¨ÒĞûŞ2
+†
+java:S1488¤"cImmediately return this expression instead of assigning it to the temporary variable "formatFecha".(¹Ñ€ùÿÿÿÿ8¨ÒĞûŞ2
+†
+java:S1488¯"cImmediately return this expression instead of assigning it to the temporary variable "formatFecha".(¹Ñ€ùÿÿÿÿ8¨ÒĞûŞ2
+X	java:S125%"<This block of commented-out lines of code should be removed.(ÔŠ¶í8è¦ÏûŞ2
+@
+java:S2119w"Save and re-use this "Random".(¦—Ş‹øÿÿÿÿ8‚§ÏûŞ2
+Y	java:S125º"<This block of commented-out lines of code should be removed.(¸éÉŒ8‰§ÏûŞ2
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(ø¸ç8§ÏûŞ2
+^	java:S125ï"<This block of commented-out lines of code should be removed.(ú‚¤¬ûÿÿÿÿ8§ÏûŞ2
+^	java:S125ı"<This block of commented-out lines of code should be removed.(Æø©˜şÿÿÿÿ8§ÏûŞ2
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(ÖŒ™8–§ÏûŞ2
+^	java:S125ä"<This block of commented-out lines of code should be removed.(½÷µŠÿÿÿÿÿ8–§ÏûŞ2
+;
+java:S2119÷"Save and re-use this "Random".(¼İÅf8¢§ÏûŞ2
+J
+java:S1172ı",Remove this unused method parameter "actor".(ÆÖ”º8¢§ÏûŞ2
+^	java:S125‚"<This block of commented-out lines of code should be removed.(Åš‰ñüÿÿÿÿ8¤§ÏûŞ2
+k	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó°¦Õ8²ÂĞûŞ2
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(•–Ä©8¨§ÏûŞ2
+p	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯Ğ£ıÿÿÿÿ8ÔĞûŞ2
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(•–Ä©8ÔĞûŞ2
+]	java:S899ë";Do something with the "boolean" value returned by "delete".(ê‡Æöûÿÿÿÿ8ÔĞûŞ2
+q
+java:S4042ë"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ê‡Æöûÿÿÿÿ8ÔĞûŞ2
+k	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ûÜ–8“ÔĞûŞ2
+k	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‰’Õ8•ÔĞûŞ2
+p
+java:S1128	"NRemove this unused import 'net.serenitybdd.screenplay.abilities.BrowseTheWeb'.(æÙ›Íøÿÿÿÿ8™ÔĞûŞ2
+h
+java:S1128"FRemove this unused import 'net.serenitybdd.screenplay.actors.OnStage'.(ôæÔŸÿÿÿÿÿ8™ÔĞûŞ2
+Y
+java:S1128"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´8™ÔĞûŞ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8šÔĞûŞ2
+d
+java:S1128"BRemove this unused import 'java.util.concurrent.TimeUnit.SECONDS'.(¥€¢ùÿÿÿÿ8›ÔĞûŞ2
+
+java:S1128"_Remove this unused import 'net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getDriver'.(—ÛŠÌÿÿÿÿÿ8œÔĞûŞ2

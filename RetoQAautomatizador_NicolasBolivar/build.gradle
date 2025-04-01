@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+// UTF-8 (para evitar problemas de codificacion (tildes, etc..)
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+test {
+    systemProperty 'file.encoding', 'UTF-8'
+    // En caso de usar JUnit, también asegúrate de que las pruebas se ejecuten con UTF-8
+    jvmArgs '-Dfile.encoding=UTF-8'
+}
+tasks.withType(JavaExec) {
+    environment 'JAVA_TOOL_OPTIONS', '-Dfile.encoding=UTF-8'
+}
+
+dependencies {
+    // JUNIT
+    testImplementation 'junit:junit:4.12'
+    // SERENITY
+    implementation "org.seleniumhq.selenium:selenium-java:3.141.59"
+    implementation 'net.serenity-bdd:serenity-core:2.0.82'
+    implementation 'net.serenity-bdd:serenity-cucumber:1.9.45'
+    implementation 'net.serenity-bdd:serenity-screenplay:2.0.82'
+    implementation 'net.serenity-bdd:serenity-screenplay-webdriver:2.0.82'
+    implementation "org.slf4j:slf4j-simple:2.0.0"
+    implementation 'com.github.stephenc.monte:monte-screen-recorder:0.7.7.0'
+    implementation "io.github.bonigarcia:webdrivermanager:5.9.2"
+    implementation "com.itextpdf:itextpdf:5.5.13.2"
+    implementation "com.itextpdf:layout:7.2.1"
+    implementation "org.apache.logging.log4j:log4j-core:2.17.2"
+    implementation "org.apache.logging.log4j:log4j-api:2.17.2"
+    implementation 'com.github.javafaker:javafaker:1.0.2'
+}
+

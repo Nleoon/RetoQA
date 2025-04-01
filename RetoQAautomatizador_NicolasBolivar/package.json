@@ -1,0 +1,14 @@
+{
+  "name": "portaltercerosautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+  },
+  "author": "Nicolas Bolivar Leon",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.3.0"
+  }
+}
